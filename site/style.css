@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;600;800&family=Kanit:ital,wght@1,500&display=swap');
+
+.font1 {
+    font-family: sans-serif;
+    margin-left: 100px;
+    font-size: x-large;
+}
+.rectangle {
+    height: 50px;
+    width: 85px;
+    background-color: #0074e9;
+    border-radius: 5px;
+    margin-top: -665px;
+    margin-left: 1600px;
+}
+.sign {
+    font-size: large;
+    color: white;
+    margin-top: -35px;
+    margin-left: 1600px;
+}
+.center {
+    color: white;
+    margin-top: 200px;
+    font-size: xx-large;
+    font-size: 50px;
+}
+.maill {
+    width: 550px;
+    height: 50px;
+    margin-right: 0px; 
+    border-radius: 5px;
+}
+.fonti {
+    color: grey;
+    margin-top: -38px;
+    font-size: larger;
+    margin-right: 370px;
+}
+.fully {
+    width: 70px;
+    height: 70px;
+    background-color: white;
+    border: 5px solid #0065ca;
+    margin-top: 350px;
+    border-radius: 10px;
+    margin-left:450px;
+}
+.resp {
+    font-size: x-large;
+    font-weight:bolder;
+    margin-left: 400px;
+}
+.respi {
+    margin-top: -10px;
+    margin-left: 400px;
+}
+.idk {
+    width: 70px;
+    height: 70px;
+    background-color: white;
+    border: 5px solid #0065ca;
+    border-radius: 10px;
+    margin-top: -195px;
+    margin-left: 950px;   
+}
+.idk2 {
+    font-size: x-large;
+    font-weight: bolder;
+    margin-left: 900px;
+    
+}
+.idk3 {
+    margin-top: -10px;
+    margin-left: 900px;
+}
+.isevidk {
+    height: 70px;
+    width: 70px;
+    border: 5px solid #0065ca;
+    border-radius: 10px;
+    margin-top: -196px;
+    margin-left: 1400px;
+}
+.idk5 {
+    font-size: x-large;
+    font-weight: bolder;
+    margin-left: 1385px;
+
+}
+.idk6 {
+    margin-top: -10px;
+    margin-left: 1385px;
+}
